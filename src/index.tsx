@@ -3,6 +3,7 @@ import ReactDom from "react-dom";
 import "./index.less";
 
 function App() {
+  console.log("Hello world! Hello PHP!");
   return (
     <div className="App">
       <header className="App-header">
